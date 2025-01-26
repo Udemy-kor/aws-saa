@@ -1,5 +1,6 @@
 import json
 import sys
+import re
 
 
 def convert_special_characters(text: str) -> str:
@@ -20,24 +21,18 @@ def convert_special_characters(text: str) -> str:
     """
 
     text = text.replace(" ", "-")
-    text = text.replace("+", "-")
-    text = text.replace(",", "-")
-    text = text.replace("&", "-")
-    text = text.replace("(", "-")
-    text = text.replace(")", "-")
-    text = text.replace("!", "-")
-    text = text.replace("?", "-")
-    text = text.replace(":", "-")
+    text = re.sub(r"[(),!?\&,+:]", "", text)
+
     text = text.lower()
 
     return text
 
 
 if __name__ == "__main__":
-    path = sys.argv[1]
+    chapter_json_path = sys.argv[1]
     week = sys.argv[2]
 
-    with open(f"{path}", encoding="utf-8") as fp:
+    with open(f"{chapter_json_path}", encoding="utf-8") as fp:
         sections = json.load(fp)
         weekly_sections = [
             section for section in sections if section.get("week") == int(week)
