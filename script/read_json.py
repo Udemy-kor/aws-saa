@@ -2,16 +2,57 @@ import json
 import sys
 
 
+def convert_special_characters(text: str) -> str:
+    """
+    space       ➡️ -
+    +           ➡️ -
+    ,           ➡️ -
+    &           ➡️ -
+    (           ➡️ -
+    )           ➡️ -
+    !           ➡️ -
+    ?           ➡️ -
+    :           ➡️ -
+    upper case  ➡️ lower case
+
+    Args:
+        text (_type_): _description_
+    """
+
+    text = text.replace(" ", "-")
+    text = text.replace("+", "-")
+    text = text.replace(",", "-")
+    text = text.replace("&", "-")
+    text = text.replace("(", "-")
+    text = text.replace(")", "-")
+    text = text.replace("!", "-")
+    text = text.replace("?", "-")
+    text = text.replace(":", "-")
+    text = text.lower()
+
+    return text
+
+
 if __name__ == "__main__":
     path = sys.argv[1]
     week = sys.argv[2]
 
     with open(f"{path}", encoding="utf-8") as fp:
-        chapters = json.load(fp)
-        result = [chapter for chapter in chapters if chapter.get("week") == int(week)]
+        sections = json.load(fp)
+        weekly_sections = [
+            section for section in sections if section.get("week") == int(week)
+        ]
 
-    titles = [
-        f"{chapter.get('object_index')}. {chapter.get('title')}" for chapter in result
-    ]
+    section_titles = []
+    for section in weekly_sections:
+        index = section.get("object_index")
+        title = section.get("title")
 
-    print("\n".join(titles))
+        WIKI_URL = "https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#"
+        link_url = f"{WIKI_URL}섹션{index}-{convert_special_characters(title)}"
+
+        linked_title = f"[{index}. {title}]({link_url})"
+
+        section_titles.append(linked_title)
+
+    print("\n".join(section_titles))
