@@ -1,0 +1,125 @@
+name: Link Post
+
+on:
+  pull_request:
+    types: [opened]
+    branches:
+      - main
+
+jobs:
+  extract-week-num:
+    runs-on: ubuntu-latest
+
+    outputs:
+      week: ${{ steps.extract.outputs.week }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: Print Context
+      run: | 
+        echo ${{ github.ref }}
+        echo ${{ github.ref_name }}
+        echo ${{ github.head_ref }}
+        echo ${{ github.action_status }}
+        echo ${{ github.event_name }}
+        echo ${{ github.event_path }}
+    - name: Read Week number from Branch
+      id: extract
+      run: |
+        cd ./script
+        echo "week=$(python get_week_number.py ${{ github.head_ref }})" >> $GITHUB_OUTPUT
+    - name: Print Week number
+      run: echo ${{ steps.extract.outputs.week }}
+ 
+  extract-chapter-info:
+    runs-on: ubuntu-latest
+    needs: extract-week-num
+
+    outputs:
+      info: ${{ steps.extract-chapter-json.outputs.info }}
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Print extract Week number
+        run: echo ${{ needs.extract-week-num.outputs.week }}
+      - name: Read chapter-info from JSON
+        id: extract-chapter-json
+        run: |
+          cd ./script
+          echo "info<<EOF" >> $GITHUB_OUTPUT
+          python read_json.py ./json/chapter.json ${{ needs.extract-week-num.outputs.week }} >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+      - name: Print chapter info
+        run: echo "${{ steps.extract-chapter-json.outputs.info }}"
+      
+  link-comment:
+    runs-on: ubuntu-latest
+    needs: [extract-week-num, extract-chapter-info]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Print Week number and Chapter Info
+        run: |
+          echo ${{ needs.extract-week-num.outputs.week }} 
+          echo "${{ needs.extract-chapter-info.outputs.info }}"
+
+      - name: Auto Comment on Pull Request
+        if: github.event_name == 'pull_request' && github.event.action == 'opened'
+        uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          pullRequestOpened: |
+            👋 @{{ author }} 님 안녕하세요!
+            Udemy - ["AWS Certified Solutions Architect Associate시험합격! 2025"](https://www.udemy.com/course/best-aws-certified-solutions-architect-associate)
+            
+            `${{ needs.extract-week-num.outputs.week }} 주차`를 학습하셨네요!
+            해당 주차의 강의 목록을 알려드릴께요!
+
+            ### 📚 ${{ needs.extract-week-num.outputs.week }} 주차 강의 목록
+            
+            ${{ needs.extract-chapter-info.outputs.info }}
+            
+            강의를 들으시면서 궁금한 점이나 공유하고 싶은 내용이 있으시면 언제든지
+            - [Discussions Q&A](https://github.com/Udemy-kor/aws-saa/discussions/categories/q-a)
+            - 단톡방에 남겨 주세요! 😊
+
+  create-and-add-label:
+    runs-on: ubuntu-latest
+    needs: [extract-week-num]
+    if: always()
+    steps:
+    - name: Create and Add Label
+      uses: actions/github-script@v5
+      with:
+        script: |
+          const labelName = '${{ needs.extract-week-num.outputs.week }} 주차';
+          const labelColor = 'ffffff'; // 라벨 색상을 HEX 코드로 설정
+
+          // 라벨이 존재하는지 확인
+          try {
+            await github.rest.issues.getLabel({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: labelName
+            });
+          } catch (error) {
+            // 라벨이 존재하지 않으면 생성
+            await github.rest.issues.createLabel({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: labelName,
+              color: labelColor,
+            });
+          }
+
+          // 풀 리퀘스트에 라벨 추가
+          await github.rest.issues.addLabels({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            labels: [labelName, '진행 중']
+          });

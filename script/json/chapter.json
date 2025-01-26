@@ -1,0 +1,299 @@
+[
+    {
+        "_class": "chapter",
+        "id": 7052732,
+        "sort_order": 617,
+        "title": "소개 - AWS 공인 솔루션스 아키텍트 어소시에이트",
+        "is_published": true,
+        "object_index": 1,
+        "week": 1
+    },
+    {
+        "_class": "chapter",
+        "id": 7052734,
+        "sort_order": 610,
+        "title": "강의 슬라이드 및 코드",
+        "is_published": true,
+        "object_index": 2,
+        "week": 1
+    },
+    {
+        "_class": "chapter",
+        "id": 7052736,
+        "sort_order": 608,
+        "title": "AWS 시작하기",
+        "is_published": true,
+        "object_index": 3,
+        "week": 1
+    },
+    {
+        "_class": "chapter",
+        "id": 7052738,
+        "sort_order": 604,
+        "title": "IAM 및 AWS CLI",
+        "is_published": true,
+        "object_index": 4,
+        "week": 1
+    },
+    {
+        "_class": "chapter",
+        "id": 7052740,
+        "sort_order": 573,
+        "title": "EC2 기초",
+        "is_published": true,
+        "object_index": 5,
+        "week": 1
+    },
+    {
+        "_class": "chapter",
+        "id": 7052742,
+        "sort_order": 552,
+        "title": "EC2 - 솔루션스 아키텍트 어소시에이트 레벨",
+        "is_published": true,
+        "object_index": 6,
+        "week": 2
+    },
+    {
+        "_class": "chapter",
+        "id": 7052744,
+        "sort_order": 538,
+        "title": "EC2 인스턴스 스토리지",
+        "is_published": true,
+        "object_index": 7,
+        "week": 2
+    },
+    {
+        "_class": "chapter",
+        "id": 7052746,
+        "sort_order": 514,
+        "title": "고가용성 및 스케일링성: ELB 및 ASG",
+        "is_published": true,
+        "object_index": 8,
+        "week": 2
+    },
+    {
+        "_class": "chapter",
+        "id": 7052748,
+        "sort_order": 487,
+        "title": "AWS 기초: RDS + Aurora + ElastiCache",
+        "is_published": true,
+        "object_index": 9,
+        "week": 2
+    },
+    {
+        "_class": "chapter",
+        "id": 7052750,
+        "sort_order": 461,
+        "title": "Route 53",
+        "is_published": true,
+        "object_index": 10,
+        "week": 2
+    },
+    {
+        "_class": "chapter",
+        "id": 7052752,
+        "sort_order": 438,
+        "title": "클래식 솔루션 아키텍처 토론",
+        "is_published": true,
+        "object_index": 11,
+        "week": 3
+    },
+    {
+        "_class": "chapter",
+        "id": 7052754,
+        "sort_order": 426,
+        "title": "Amazon S3 소개",
+        "is_published": true,
+        "object_index": 12,
+        "week": 3
+    },
+    {
+        "_class": "chapter",
+        "id": 7052758,
+        "sort_order": 402,
+        "title": "고급 Amazon S3",
+        "is_published": true,
+        "object_index": 13,
+        "week": 3
+    },
+    {
+        "_class": "chapter",
+        "id": 8388580,
+        "sort_order": 386,
+        "title": "아마존 S3 보안",
+        "is_published": true,
+        "object_index": 14,
+        "week": 3
+    },
+    {
+        "_class": "chapter",
+        "id": 7052760,
+        "sort_order": 364,
+        "title": "CloudFront 및 AWS 글로벌 액셀러레이터",
+        "is_published": true,
+        "object_index": 15,
+        "week": 3
+    },
+    {
+        "_class": "chapter",
+        "id": 7052762,
+        "sort_order": 350,
+        "title": "AWS 스토리지 추가 기능",
+        "is_published": true,
+        "object_index": 16,
+        "week": 4
+    },
+    {
+        "_class": "chapter",
+        "id": 7052764,
+        "sort_order": 334,
+        "title": "디커플링 애플리케이션: SQS, SNS, Kinesis, Active MQ",
+        "is_published": true,
+        "object_index": 17,
+        "week": 4
+    },
+    {
+        "_class": "chapter",
+        "id": 7052766,
+        "sort_order": 304,
+        "title": "AWS의 컨테이너: ECS, Fargate, ECR 및 EKS",
+        "is_published": true,
+        "object_index": 18,
+        "week": 4
+    },
+    {
+        "_class": "chapter",
+        "id": 7052768,
+        "sort_order": 284,
+        "title": "솔루션 설계자 관점의 서버리스 개요",
+        "is_published": true,
+        "object_index": 19,
+        "week": 4
+    },
+    {
+        "_class": "chapter",
+        "id": 7052770,
+        "sort_order": 262,
+        "title": "서버리스 솔루션 아키텍처 토론",
+        "is_published": true,
+        "object_index": 20,
+        "week": 5
+    },
+    {
+        "_class": "chapter",
+        "id": 7052772,
+        "sort_order": 254,
+        "title": "AWS의 데이터베이스",
+        "is_published": true,
+        "object_index": 21,
+        "week": 5
+    },
+    {
+        "_class": "chapter",
+        "id": 8388584,
+        "sort_order": 235,
+        "title": "데이터 & 분석",
+        "is_published": true,
+        "object_index": 22,
+        "week": 5
+    },
+    {
+        "_class": "chapter",
+        "id": 7877146,
+        "sort_order": 218,
+        "title": "머신 러닝",
+        "is_published": true,
+        "object_index": 23,
+        "week": 5
+    },
+    {
+        "_class": "chapter",
+        "id": 7052774,
+        "sort_order": 203,
+        "title": "AWS 모니터링 및 감사: CloudWatch, CloudTrail 및 Config",
+        "is_published": true,
+        "object_index": 24,
+        "week": 5
+    },
+    {
+        "_class": "chapter",
+        "id": 7052776,
+        "sort_order": 176,
+        "title": "Identity and Access Management (IAM) - 고급",
+        "is_published": true,
+        "object_index": 25,
+        "week": 5
+    },
+    {
+        "_class": "chapter",
+        "id": 7052778,
+        "sort_order": 158,
+        "title": "AWS 보안 및 암호화: KMS, SSM Parameter Store, CloudHSM, Shield, WAF",
+        "is_published": true,
+        "object_index": 26,
+        "week": 6
+    },
+    {
+        "_class": "chapter",
+        "id": 7052780,
+        "sort_order": 127,
+        "title": "네트워킹 - VPC",
+        "is_published": true,
+        "object_index": 27,
+        "week": 6
+    },
+    {
+        "_class": "chapter",
+        "id": 7052782,
+        "sort_order": 74,
+        "title": "재해 복구 및 마이그레이션",
+        "is_published": true,
+        "object_index": 28,
+        "week": 7
+    },
+    {
+        "_class": "chapter",
+        "id": 7052784,
+        "sort_order": 60,
+        "title": "더 많은 솔루션 아키텍처",
+        "is_published": true,
+        "object_index": 29,
+        "week": 7
+    },
+    {
+        "_class": "chapter",
+        "id": 7052786,
+        "sort_order": 51,
+        "title": "기타 서비스",
+        "is_published": true,
+        "object_index": 30,
+        "week": 7
+    },
+    {
+        "_class": "chapter",
+        "id": 7052788,
+        "sort_order": 29,
+        "title": "백서 및 아키텍처 - AWS 공인 솔루션스 아키텍트 어소시에이트",
+        "is_published": true,
+        "object_index": 31,
+        "week": 7
+    },
+    {
+        "_class": "chapter",
+        "id": 7052790,
+        "sort_order": 15,
+        "title": "시험 준비 + 연습 시험 - AWS Certified SAA",
+        "is_published": true,
+        "object_index": 32,
+        "week": 7
+    },
+    {
+        "_class": "chapter",
+        "id": 7052792,
+        "sort_order": 5,
+        "title": "완강을 축하합니다! - AWS Certified Solutions Architect Associate",
+        "is_published": true,
+        "object_index": 33,
+        "week": 7
+    }
+]
