@@ -1,7 +1,7 @@
 # 유데미 - 러닝 크루 2기
 
 - [Udemy - "AWS Certified Solutions Architect Associate시험합격! 2025"](https://www.udemy.com/share/105HsY3@-Eq7TFAKPwVm6-0KDC3GH-fAUz9t_GWqpwEyejvo7Ch_s3vfFxIiQb3XQJg1ErMXOA==/)를 완강을 목표로 합니다.
-- 스터디는 다수의 인원이 참여시 조별로 진행 될 예정입니다.
+- 스터디는 다수의 인원이 참여시 **온라인 조별**로 진행 될 예정입니다.
 - 스터디 당일에 발표자를 선정하고, 함께 토론하고 학습 내용을 공유 합니다.
 - 스터디 기간은 **총 8주(2월 10일 ~ 4월 4일)** 로 예상하고 있습니다.
 - 본격적인 시작에 앞서 단톡방 초대와 2/5 ~ 2/9에는 스터디 조가 편성됩니다.
