@@ -76,16 +76,22 @@ jobs:
             👋 @{{ author }} 님 안녕하세요!
             Udemy - ["AWS Certified Solutions Architect Associate시험합격! 2025"](https://www.udemy.com/course/best-aws-certified-solutions-architect-associate)
             
-            `${{ needs.extract-week-num.outputs.week }} 주차`를 학습하셨네요!
+            **${{ needs.extract-week-num.outputs.week }} 주차**를 학습하셨네요!
             해당 주차의 강의 목록을 알려드릴께요!
 
             ### 📚 ${{ needs.extract-week-num.outputs.week }} 주차 강의 목록
             
             ${{ needs.extract-chapter-info.outputs.info }}
+
+            ### 📖 기록을 남겨주세요!
             
-            강의를 들으시면서 궁금한 점이나 공유하고 싶은 내용이 있으시면 언제든지
+            공부하면서 찾아본 자료가 있다면, 자신과 다른 사람이 다시 찾아볼 수 있도록 **아카이브 정보에 기록**을 남겨주세요!
+            - [Discussions 아카이브 정보](https://github.com/Udemy-kor/aws-saa/discussions/categories/%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%95%EB%B3%B4)
+
+            강의를 들으시면서 궁금한 점이나 있으시면 언제든지
+
             - [Discussions Q&A](https://github.com/Udemy-kor/aws-saa/discussions/categories/q-a)
-            - 단톡방에 남겨 주세요! 😊
+            - 단톡방에 질문을 남겨 주세요! 😊
 
   create-and-add-label:
     runs-on: ubuntu-latest
