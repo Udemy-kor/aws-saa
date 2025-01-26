@@ -12,6 +12,7 @@
 - [스터디 규칙](https://github.com/Udemy-kor/aws-saa/wiki/01-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B7%9C%EC%B9%99)
 - [스터디 목차](https://github.com/Udemy-kor/aws-saa/wiki/02-%ED%95%99%EC%8A%B5-%EB%AA%A9%EC%B0%A8)
 - [스터디 CoC](https://github.com/Udemy-kor/aws-saa/wiki/03-%EC%8A%A4%ED%84%B0%EB%94%94-CoC)
+- [학습 상세 목차](https://github.com/Udemy-kor/aws-saa/wiki/04-%ED%95%99%EC%8A%B5-%EC%83%81%EC%84%B8-%EB%AA%A9%EC%B0%A8)
 
 ### 함께하는 스터디원
 
