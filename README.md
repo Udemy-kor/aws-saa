@@ -10,6 +10,7 @@
 ### 스터디 관련 링크
 
 - [스터디 모집 공고(인프런)](https://www.inflearn.com/studies/1503667/aws-saa-%EA%B0%95%EC%9D%98-%EC%8A%A4%ED%84%B0%EB%94%94)
+- [스터디 모집 폼](https://forms.gle/ZV7SaTR9BabdXkve6)
 - [스터디 OT PPT 문서](https://gamma.app/docs/AWS-OT-j132g9hb3kvnixq)
 
 ### 스터디 wiki 링크
