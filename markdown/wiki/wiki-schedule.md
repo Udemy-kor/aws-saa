@@ -12,11 +12,11 @@
 
 [5. EC2 기초](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션5-ec2-기초)
 
+[6. EC2 - 솔루션스 아키텍트 어소시에이트 레벨](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션6-ec2---솔루션스-아키텍트-어소시에이트-레벨)
+
 ---
 
 ### 📅 2 주차 (2/17 ~ )
-
-[6. EC2 - 솔루션스 아키텍트 어소시에이트 레벨](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션6-ec2---솔루션스-아키텍트-어소시에이트-레벨)
 
 [7. EC2 인스턴스 스토리지](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션7-ec2-인스턴스-스토리지)
 
@@ -24,11 +24,11 @@
 
 [9. AWS 기초: RDS + Aurora + ElastiCache](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션9-aws-기초-rds--aurora--elasticache)
 
-[10. Route 53](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션10-route-53)
-
 ---
 
 ### 📅 3 주차 (2/24 ~ )
+
+[10. Route 53](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션10-route-53)
 
 [11. 클래식 솔루션 아키텍처 토론](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션11-클래식-솔루션-아키텍처-토론)
 
@@ -38,11 +38,11 @@
 
 [14. 아마존 S3 보안](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션14-아마존-s3-보안)
 
-[15. CloudFront 및 AWS 글로벌 액셀러레이터](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션15-cloudfront-및-aws-글로벌-액셀러레이터)
-
 ---
 
 ### 📅 4 주차 (3/3 ~ )
+
+[15. CloudFront 및 AWS 글로벌 액셀러레이터](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션15-cloudfront-및-aws-글로벌-액셀러레이터)
 
 [16. AWS 스토리지 추가 기능](https://github.com/Udemy-kor/aws-saa/wiki/04-학습-상세-목차#섹션16-aws-스토리지-추가-기능)
 

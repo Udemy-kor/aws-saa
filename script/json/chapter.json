@@ -51,7 +51,7 @@
         "title": "EC2 - 솔루션스 아키텍트 어소시에이트 레벨",
         "is_published": true,
         "object_index": 6,
-        "week": 2
+        "week": 1
     },
     {
         "_class": "chapter",
@@ -87,7 +87,7 @@
         "title": "Route 53",
         "is_published": true,
         "object_index": 10,
-        "week": 2
+        "week": 3
     },
     {
         "_class": "chapter",
@@ -132,7 +132,7 @@
         "title": "CloudFront 및 AWS 글로벌 액셀러레이터",
         "is_published": true,
         "object_index": 15,
-        "week": 3
+        "week": 4
     },
     {
         "_class": "chapter",

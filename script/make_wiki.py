@@ -82,23 +82,25 @@ def create_wiki_markdown(study_schedule: deque, save_md_path, lecture_group_by_c
 
 
 if __name__ == "__main__":
-    raw_json_path = sys.argv[1]
+    lecture_group_by_chapter_json_path = sys.argv[1]
     save_md_path = sys.argv[2]
-    convert_data_path = raw_json_path.replace("raw", "lecture_group_by_chapter")
+    convert_data_path = lecture_group_by_chapter_json_path.replace(
+        "raw", "lecture_group_by_chapter"
+    )
 
     study_schedule = deque(
         [
-            {"date": "2/10 ~ ", "cnt": 5},
-            {"date": "2/17 ~ ", "cnt": 5},
+            {"date": "2/10 ~ ", "cnt": 6},
+            {"date": "2/17 ~ ", "cnt": 3},
             {"date": "2/24 ~ ", "cnt": 5},
-            {"date": "3/3 ~ ", "cnt": 4},
+            {"date": "3/3 ~ ", "cnt": 5},
             {"date": "3/10 ~ ", "cnt": 6},
             {"date": "3/17 ~ ", "cnt": 2},
             {"date": "3/24 ~ ", "cnt": 6},
         ]
     )
 
-    with open(raw_json_path, "r", encoding="utf8") as f:
+    with open(lecture_group_by_chapter_json_path, "r", encoding="utf8") as f:
         lecture_group_by_chapter = json.load(f)
 
         create_wiki_markdown(study_schedule, save_md_path, lecture_group_by_chapter)
