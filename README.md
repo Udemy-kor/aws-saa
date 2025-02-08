@@ -29,8 +29,7 @@
 - [학습 상세 목차](https://github.com/Udemy-kor/aws-saa/wiki/04-%ED%95%99%EC%8A%B5-%EC%83%81%EC%84%B8-%EB%AA%A9%EC%B0%A8)
 - [스터디 관련 기록](https://github.com/Udemy-kor/aws-saa/wiki/05-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EB%A1%9D)
 
-## 😀 스터디원 정보
-## 👥 스터디원 소개
+## 😀 스터디원 소개
 
 <div align="center">
   <table>
@@ -39,7 +38,8 @@
         <a href="https://github.com/abp1234">
           <img src="https://avatars.githubusercontent.com/u/156388823?v=4" width="100px;" alt="나경준"/>
           <br />
-          <sub><b>나경준</b></sub>
+          <sub><b>abp1234(나경준)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
@@ -47,14 +47,15 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/boing-86">
           <img src="https://avatars.githubusercontent.com/u/54930076?v=4" width="100px;" alt="정보인"/>
           <br />
-          <sub><b>정보인</b></sub>
+          <sub><b>boing-86(정보인)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
@@ -62,14 +63,15 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ghktndyd">
           <img src="https://avatars.githubusercontent.com/u/120021021?v=4" width="100px;" alt="수용"/>
           <br />
-          <sub><b>수용</b></sub>
+          <sub><b>ghktndyd(수용)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
@@ -77,14 +79,15 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/KR-CodingMonkey">
           <img src="https://avatars.githubusercontent.com/u/76420201?v=4" width="100px;" alt="재원"/>
           <br />
-          <sub><b>재원</b></sub>
+          <sub><b>KR-CodingMonkey(재원)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey">
@@ -92,7 +95,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
     </tr>
@@ -101,7 +104,8 @@
         <a href="https://github.com/kyungjunleeme">
           <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt="이경준"/>
           <br />
-          <sub><b>이경준</b></sub>
+          <sub><b>kyungjunleeme(이경준)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
@@ -109,14 +113,15 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/nowij0">
           <img src="https://avatars.githubusercontent.com/u/118253722?v=4" width="100px;" alt="지원"/>
           <br />
-          <sub><b>지원</b></sub>
+          <sub><b>nowij0(지원)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0">
@@ -124,14 +129,15 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/tiaz0128">
           <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;" alt="주환석"/>
           <br />
-          <sub><b>주환석</b></sub>
+          <sub><b>tiaz0128(주환석)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
@@ -139,14 +145,15 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/wch-os">
           <img src="https://avatars.githubusercontent.com/u/99057845?v=4" width="100px;" alt="선호"/>
           <br />
-          <sub><b>선호</b></sub>
+          <sub><b>wch-os(선호)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
@@ -154,7 +161,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
     </tr>
@@ -163,7 +170,8 @@
         <a href="https://github.com/zerofunc">
           <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;" alt="형주"/>
           <br />
-          <sub><b>형주</b></sub>
+          <sub><b>zerofunc(형주)</b></sub>
+          <br />
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
@@ -171,7 +179,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
-          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
       </td>
     </tr>
