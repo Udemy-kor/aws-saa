@@ -29,9 +29,9 @@
 - [학습 상세 목차](https://github.com/Udemy-kor/aws-saa/wiki/04-%ED%95%99%EC%8A%B5-%EC%83%81%EC%84%B8-%EB%AA%A9%EC%B0%A8)
 - [스터디 관련 기록](https://github.com/Udemy-kor/aws-saa/wiki/05-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EB%A1%9D)
 
-## 📖 스터디원 정보
+## 😀 스터디원 정보
 
-<table width: 100%; border-collapse: collapse">
+<table style="width: 100%; border-collapse: collapse">
 <tr>
     <td style="text-align: center; vertical-align: middle; padding: 20px">
         <div><p align="center"><img src="https://avatars.githubusercontent.com/u/156388823?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
@@ -81,6 +81,14 @@
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 20px">
         <div><p align="center"><img src="https://avatars.githubusercontent.com/u/6914456?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
+        <div><p align="center">wch-os(선호)</p></div><div>
+            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os>PR 기록 보러가기</a></p></div>
+        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os>✍️ SAA 공부 중!</a></p></div>
+    </td>
+</tr>
+<tr>
+    <td style="text-align: center; vertical-align: middle; padding: 20px">
+        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/6914456?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
         <div><p align="center">zerofunc(형주)</p></div><div>
             <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc>PR 기록 보러가기</a></p></div>
         <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc>✍️ SAA 공부 중!</a></p></div>
@@ -109,10 +117,10 @@
 | abp1234(나경준) |  |  |  |  |  |  |  |  |
 | boing-86(정보인) |  |  |  |  |  |  |  |  |
 | ghktndyd(수용) |  |  |  |  |  |  |  |  |
-| KR-CodingMonkey(재원) |  |  |  |  |  |  |  |  |
 | kyungjunleeme(이경준) |  |  |  |  |  |  |  |  |
 | nowij0(지원) |  |  |  |  |  |  |  |  |
 | tiaz0128(주환석) |  |  |  |  |  |  |  |  |
+| wch-os(선호) |  |  |  |  |  |  |  |  |
 | zerofunc(형주) |  |  |  |  |  |  |  |  |
 
 ## 🔗 스터디 관련 링크
