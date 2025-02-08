@@ -30,71 +30,153 @@
 - [스터디 관련 기록](https://github.com/Udemy-kor/aws-saa/wiki/05-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EB%A1%9D)
 
 ## 😀 스터디원 정보
+## 👥 스터디원 소개
 
-<table style="width: 100%; border-collapse: collapse">
-<tr>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/156388823?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">abp1234(나경준)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234>✍️ SAA 공부 중!</a></p></div>
-    </td>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/54930076?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">boing-86(정보인)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86>✍️ SAA 공부 중!</a></p></div>
-    </td>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/120021021?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">ghktndyd(수용)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd>✍️ SAA 공부 중!</a></p></div>
-    </td>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/76420201?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">KR-CodingMonkey(재원)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey>✍️ SAA 공부 중!</a></p></div>
-    </td>
-</tr>
-<tr>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/45473846?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">kyungjunleeme(이경준)</p></div>
-        <div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme>PR 기록 보러가기</a></p>
-        </div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme>✍️ SAA 공부 중!</a></p></div>
-    </td>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/118253722?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">nowij0(지원)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0>✍️ SAA 공부 중!</a></p></div>
-    </td>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/44606727?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">tiaz0128(주환석)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128>✍️ SAA 공부 중!</a></p></div>
-    </td>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/6914456?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">wch-os(선호)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os>✍️ SAA 공부 중!</a></p></div>
-    </td>
-</tr>
-<tr>
-    <td style="text-align: center; vertical-align: middle; padding: 20px">
-        <div><p align="center"><img src="https://avatars.githubusercontent.com/u/6914456?v=4" style="width: 100px; height: 100px; border-radius: 50%;"/></p></div>
-        <div><p align="center">zerofunc(형주)</p></div><div>
-            <p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc>PR 기록 보러가기</a></p></div>
-        <div><p align="center"><a href=https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc>✍️ SAA 공부 중!</a></p></div>
-    </td>
-</tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abp1234">
+          <img src="https://avatars.githubusercontent.com/u/156388823?v=4" width="100px;" alt="나경준"/>
+          <br />
+          <sub><b>나경준</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/boing-86">
+          <img src="https://avatars.githubusercontent.com/u/54930076?v=4" width="100px;" alt="정보인"/>
+          <br />
+          <sub><b>정보인</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ghktndyd">
+          <img src="https://avatars.githubusercontent.com/u/120021021?v=4" width="100px;" alt="수용"/>
+          <br />
+          <sub><b>수용</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/KR-CodingMonkey">
+          <img src="https://avatars.githubusercontent.com/u/76420201?v=4" width="100px;" alt="재원"/>
+          <br />
+          <sub><b>재원</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/kyungjunleeme">
+          <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt="이경준"/>
+          <br />
+          <sub><b>이경준</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nowij0">
+          <img src="https://avatars.githubusercontent.com/u/118253722?v=4" width="100px;" alt="지원"/>
+          <br />
+          <sub><b>지원</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tiaz0128">
+          <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;" alt="주환석"/>
+          <br />
+          <sub><b>주환석</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/wch-os">
+          <img src="https://avatars.githubusercontent.com/u/99057845?v=4" width="100px;" alt="선호"/>
+          <br />
+          <sub><b>선호</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/zerofunc">
+          <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;" alt="형주"/>
+          <br />
+          <sub><b>형주</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
+          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
+          <img src="https://img.shields.io/badge/PR-보러가기-green?style=flat-square"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 👥 조 편성 결과
 
