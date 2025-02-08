@@ -36,7 +36,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/abp1234">
-          <img src="https://avatars.githubusercontent.com/u/156388823?v=4" width="100px;"  style="border-radius: 50%;" alt="나경준"/>
+          <img src="https://avatars.githubusercontent.com/u/156388823?v=4" width="100px;" alt="나경준"/>
           <br />
           <sub><b>abp1234(나경준)</b></sub>
           <br />
@@ -52,7 +52,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/boing-86">
-          <img src="https://avatars.githubusercontent.com/u/54930076?v=4" width="100px;"  style="border-radius: 50%;" alt="정보인"/>
+          <img src="https://avatars.githubusercontent.com/u/54930076?v=4" width="100px;" alt="정보인"/>
           <br />
           <sub><b>boing-86(정보인)</b></sub>
           <br />
@@ -68,7 +68,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/ghktndyd">
-          <img src="https://avatars.githubusercontent.com/u/120021021?v=4" width="100px;"  style="border-radius: 50%;" alt="수용"/>
+          <img src="https://avatars.githubusercontent.com/u/120021021?v=4" width="100px;" alt="수용"/>
           <br />
           <sub><b>ghktndyd(수용)</b></sub>
           <br />
@@ -84,7 +84,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/KR-CodingMonkey">
-          <img src="https://avatars.githubusercontent.com/u/76420201?v=4" width="100px;"  style="border-radius: 50%;" alt="재원"/>
+          <img src="https://avatars.githubusercontent.com/u/76420201?v=4" width="100px;" alt="재원"/>
           <br />
           <sub><b>KR-CodingMonkey(재원)</b></sub>
           <br />
@@ -102,7 +102,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/kyungjunleeme">
-          <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;"  style="border-radius: 50%;" alt="이경준"/>
+          <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt="이경준"/>
           <br />
           <sub><b>kyungjunleeme(이경준)</b></sub>
           <br />
@@ -118,7 +118,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/nowij0">
-          <img src="https://avatars.githubusercontent.com/u/118253722?v=4" width="100px;"  style="border-radius: 50%;" alt="지원"/>
+          <img src="https://avatars.githubusercontent.com/u/118253722?v=4" width="100px;" alt="지원"/>
           <br />
           <sub><b>nowij0(지원)</b></sub>
           <br />
@@ -134,7 +134,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/tiaz0128">
-          <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;"  style="border-radius: 50%;" alt="주환석"/>
+          <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;" alt="주환석"/>
           <br />
           <sub><b>tiaz0128(주환석)</b></sub>
           <br />
@@ -150,7 +150,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/wch-os">
-          <img src="https://avatars.githubusercontent.com/u/99057845?v=4" width="100px;"  style="border-radius: 50%;" alt="선호"/>
+          <img src="https://avatars.githubusercontent.com/u/99057845?v=4" width="100px;" alt="선호"/>
           <br />
           <sub><b>wch-os(선호)</b></sub>
           <br />
@@ -168,7 +168,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/zerofunc">
-          <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;"  style="border-radius: 50%;" alt="형주"/>
+          <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;" alt="형주"/>
           <br />
           <sub><b>zerofunc(형주)</b></sub>
           <br />
@@ -189,16 +189,18 @@
 ## 👥 조 편성 결과
 
 ### A조 (월요일)
-- @ghktndyd (수용)
-- @zerofunc (형주)
-- @boing-86 (보인)
-- @tiaz0128 (주환석)
+
+- ghktndyd (수용)
+- zerofunc (형주)
+- boing-86 (보인)
+- tiaz0128 (주환석)
 
 ### B조 (토요일)
-- @abp1234 (나경준)
-- @nowij0 (지원)
-- @wch-os (선호)
-- @kyungjunleeme(이경준)
+
+- abp1234 (나경준)
+- nowij0 (지원)
+- wch-os (선호)
+- kyungjunleeme(이경준)
 
 ## 📅 스터디 진행 사항
 
