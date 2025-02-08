@@ -35,10 +35,10 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/abp1234">
           <img src="https://avatars.githubusercontent.com/u/156388823?v=4" width="100px;" alt="나경준"/>
           <br />
@@ -56,10 +56,10 @@
         <br />
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/boing-86">
           <img src="https://avatars.githubusercontent.com/u/54930076?v=4" width="100px;" alt="정보인"/>
           <br />
@@ -77,10 +77,10 @@
         <br />
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/ghktndyd">
           <img src="https://avatars.githubusercontent.com/u/120021021?v=4" width="100px;" alt="수용"/>
           <br />
@@ -98,10 +98,10 @@
         <br />
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/KR-CodingMonkey">
           <img src="https://avatars.githubusercontent.com/u/76420201?v=4" width="100px;" alt="재원"/>
           <br />
@@ -121,10 +121,10 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/kyungjunleeme">
           <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt="이경준"/>
           <br />
@@ -142,10 +142,10 @@
         <br />
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/nowij0">
           <img src="https://avatars.githubusercontent.com/u/118253722?v=4" width="100px;" alt="지원"/>
           <br />
@@ -163,10 +163,10 @@
         <br />
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/tiaz0128">
           <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;" alt="주환석"/>
           <br />
@@ -184,10 +184,10 @@
         <br />
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/wch-os">
           <img src="https://avatars.githubusercontent.com/u/99057845?v=4" width="100px;" alt="선호"/>
           <br />
@@ -207,10 +207,10 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
-        <br />
+        <br /> -->
         <a href="https://github.com/zerofunc">
           <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;" alt="형주"/>
           <br />
