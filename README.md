@@ -35,6 +35,10 @@
   <table>
     <tr>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/abp1234">
           <img src="https://avatars.githubusercontent.com/u/156388823?v=4" width="100px;" alt="나경준"/>
           <br />
@@ -49,8 +53,13 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/boing-86">
           <img src="https://avatars.githubusercontent.com/u/54930076?v=4" width="100px;" alt="정보인"/>
           <br />
@@ -65,8 +74,13 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/ghktndyd">
           <img src="https://avatars.githubusercontent.com/u/120021021?v=4" width="100px;" alt="수용"/>
           <br />
@@ -81,8 +95,13 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/KR-CodingMonkey">
           <img src="https://avatars.githubusercontent.com/u/76420201?v=4" width="100px;" alt="재원"/>
           <br />
@@ -97,10 +116,15 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
     </tr>
     <tr>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/kyungjunleeme">
           <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt="이경준"/>
           <br />
@@ -115,8 +139,13 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/nowij0">
           <img src="https://avatars.githubusercontent.com/u/118253722?v=4" width="100px;" alt="지원"/>
           <br />
@@ -131,8 +160,13 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/tiaz0128">
           <img src="https://avatars.githubusercontent.com/u/44606727?v=4" width="100px;" alt="주환석"/>
           <br />
@@ -147,8 +181,13 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/wch-os">
           <img src="https://avatars.githubusercontent.com/u/99057845?v=4" width="100px;" alt="선호"/>
           <br />
@@ -163,10 +202,15 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
     </tr>
     <tr>
       <td align="center">
+        <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
+          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
+        </a>
+        <br />
         <a href="https://github.com/zerofunc">
           <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;" alt="형주"/>
           <br />
@@ -181,6 +225,7 @@
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
+        <br />
       </td>
     </tr>
   </table>
@@ -214,10 +259,3 @@
 | tiaz0128(주환석) |  |  |  |  |  |  |  |  |
 | wch-os(선호) |  |  |  |  |  |  |  |  |
 | zerofunc(형주) |  |  |  |  |  |  |  |  |
-
-## 🔗 스터디 관련 링크
-
-- [스터디 모집 공고(인프런)](https://www.inflearn.com/studies/1503667/aws-saa-%EA%B0%95%EC%9D%98-%EC%8A%A4%ED%84%B0%EB%94%94)
-- [스터디 모집 폼](https://forms.gle/ZV7SaTR9BabdXkve6)
-- [스터디 OT PPT 문서](https://gamma.app/docs/AWS-OT-j132g9hb3kvnixq)
-- [스터디 추가 모집 공고(인프런)](https://www.inflearn.com/studies/1513119/aws-saa-%EC%8A%A4%ED%84%B0%EB%94%94)
