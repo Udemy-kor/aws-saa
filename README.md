@@ -47,7 +47,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
@@ -68,7 +68,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
@@ -89,31 +89,10 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
-          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
-          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
-        </a>
-        <br /> -->
-        <a href="https://github.com/KR-CodingMonkey">
-          <img src="https://avatars.githubusercontent.com/u/76420201?v=4" width="100px;" alt="재원"/>
-          <br />
-          <sub><b>KR-CodingMonkey(재원)</b></sub>
-          <br />
-        </a>
-        <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
-        </a>
-        <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3AKR-CodingMonkey">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
         <br />
@@ -133,31 +112,10 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
-          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
-          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
-        </a>
-        <br /> -->
-        <a href="https://github.com/nowij0">
-          <img src="https://avatars.githubusercontent.com/u/118253722?v=4" width="100px;" alt="지원"/>
-          <br />
-          <sub><b>nowij0(지원)</b></sub>
-          <br />
-        </a>
-        <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
-        </a>
-        <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Anowij0">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
         <br />
@@ -175,7 +133,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
@@ -196,7 +154,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
@@ -219,7 +177,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
-          <img src="https://img.shields.io/badge/진행률-0%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
@@ -243,19 +201,18 @@
 ### B조 (토요일)
 
 - abp1234 (나경준)
-- nowij0 (지원)
 - wch-os (선호)
 - kyungjunleeme(이경준)
+- tiaz0128 (주환석)
 
 ## 📅 스터디 진행 사항
 
 | 이름 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| abp1234(나경준) |  |  |  |  |  |  |  |  |
-| boing-86(정보인) |  |  |  |  |  |  |  |  |
-| ghktndyd(수용) |  |  |  |  |  |  |  |  |
-| kyungjunleeme(이경준) |  |  |  |  |  |  |  |  |
-| nowij0(지원) |  |  |  |  |  |  |  |  |
-| tiaz0128(주환석) |  |  |  |  |  |  |  |  |
-| wch-os(선호) |  |  |  |  |  |  |  |  |
-| zerofunc(형주) |  |  |  |  |  |  |  |  |
+| abp1234(나경준) | ✅ |  |  |  |  |  |  |  |
+| boing-86(정보인) | ✅ |  |  |  |  |  |  |  |
+| ghktndyd(수용) | ✅ |  |  |  |  |  |  |  |
+| kyungjunleeme(이경준) | ❌  |  |  |  |  |  |  |  |
+| tiaz0128(주환석) | ✅ |  |  |  |  |  |  |  |
+| wch-os(선호) | ✅ |  |  |  |  |  |  |  |
+| zerofunc(형주) | ✅ |  |  |  |  |  |  |  |
