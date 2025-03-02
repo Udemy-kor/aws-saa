@@ -47,7 +47,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
-          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-2%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aabp1234">
@@ -68,7 +68,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
-          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-2%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aboing-86">
@@ -89,7 +89,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
-          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-2%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
@@ -112,7 +112,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
-          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-2%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Akyungjunleeme">
@@ -133,7 +133,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
-          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-2%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Atiaz0128">
@@ -154,7 +154,7 @@
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
-          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/진행률-2%2F8-blue?style=flat-square"/>
         </a>
         <br />
         <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Awch-os">
