@@ -81,18 +81,18 @@
           <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
         </a>
         <br /> -->
-        <a href="https://github.com/ghktndyd">
-          <img src="https://avatars.githubusercontent.com/u/120021021?v=4" width="100px;" alt="수용"/>
+        <a href="https://github.com/zerofunc">
+          <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;" alt="형주"/>
           <br />
-          <sub><b>ghktndyd(수용)</b></sub>
+          <sub><b>zerofunc(형주)</b></sub>
           <br />
         </a>
         <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
           <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
         </a>
         <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Aghktndyd">
+        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
         </a>
         <br />
@@ -163,29 +163,6 @@
         <br />
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <!-- <a href="https://www.credly.com/badges/cd6a3189-09b9-48a7-94a0-11e3fe1fcc14/public_url">
-          <img src="https://img.shields.io/badge/-자격증_취득!🎉-FF6B00?style=flat&logo=credly&logoColor=white">
-        </a>
-        <br /> -->
-        <a href="https://github.com/zerofunc">
-          <img src="https://avatars.githubusercontent.com/u/6914456?v=4" width="100px;" alt="형주"/>
-          <br />
-          <sub><b>zerofunc(형주)</b></sub>
-          <br />
-        </a>
-        <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
-          <img src="https://img.shields.io/badge/진행률-1%2F8-blue?style=flat-square"/>
-        </a>
-        <br />
-        <a href="https://github.com/Udemy-kor/aws-saa/pulls?q=assignee%3Azerofunc">
-          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
-        </a>
-        <br />
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -193,7 +170,6 @@
 
 ### A조 (월요일)
 
-- ghktndyd (수용)
 - zerofunc (형주)
 - boing-86 (보인)
 - tiaz0128 (주환석)
@@ -209,10 +185,9 @@
 
 | 이름 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| abp1234(나경준) | ✅ |  |  |  |  |  |  |  |
-| boing-86(정보인) | ✅ |  |  |  |  |  |  |  |
-| ghktndyd(수용) | ✅ |  |  |  |  |  |  |  |
-| kyungjunleeme(이경준) | ❌  |  |  |  |  |  |  |  |
-| tiaz0128(주환석) | ✅ |  |  |  |  |  |  |  |
-| wch-os(선호) | ✅ |  |  |  |  |  |  |  |
-| zerofunc(형주) | ✅ |  |  |  |  |  |  |  |
+| abp1234(나경준) | ✅ | ✅ |  |  |  |  |  |  |
+| boing-86(정보인) | ✅ | ✅ |  |  |  |  |  |  |
+| kyungjunleeme(이경준) | ❌ | ❌ |  |  |  |  |  |  |
+| tiaz0128(주환석) | ✅ | ✅ |  |  |  |  |  |  |
+| wch-os(선호) | ✅ | ✅ |  |  |  |  |  |  |
+| zerofunc(형주) | ✅ | ✅ |  |  |  |  |  |  |
